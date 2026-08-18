@@ -59,5 +59,4 @@ Built four targeted **Pivot Tables** on the `Pivot_Tables` sheet to evaluate spe
 
 ```text
 ├── Final_Retailer_Dashboard.xlsx   # Main Excel File (Master Data, Pivot Tables, Dashboard)
-├── Screenshots/                    # Dashboard preview images
 └── README.md                       # Documentation
