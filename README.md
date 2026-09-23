@@ -55,8 +55,19 @@ Built four targeted **Pivot Tables** on the `Pivot_Tables` sheet to evaluate spe
 
 ---
 
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
+*   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
+  
+
 ## 📁 Repository Structure
 
 ```text
 ├── Final_Retailer_Dashboard.xlsx   # Main Excel File (Master Data, Pivot Tables, Dashboard)
 └── README.md                       # Documentation
+
